@@ -1,3 +1,4 @@
+//* @version "v1.7"
 /* Includes ---------------------------------------------------------------- */
 #include <Lumos_inferencing.h>  // Incluye la biblioteca de inferencia Lumos
 #include "freertos/FreeRTOS.h"  // Incluye las bibliotecas FreeRTOS necesarias
